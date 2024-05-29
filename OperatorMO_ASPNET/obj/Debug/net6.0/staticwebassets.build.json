@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JfQKgMiTt8uVy9FHmG6AWDgJlZuhj8M2/5ziLZvHus4=",
+  "Source": "OperatorMO_ASPNET",
+  "BasePath": "_content/OperatorMO_ASPNET",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

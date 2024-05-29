@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OperatorMO_ASPNET.props" />
+</Project>
